@@ -54,3 +54,6 @@ space -> g -> g
 
 # quit lazygit
 ctrl+c
+
+# show hidden files in dashboard(alpha-vim)
+i
