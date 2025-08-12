@@ -57,3 +57,6 @@ ctrl+c
 
 # show hidden files in dashboard(alpha-vim)
 i
+
+# reload file externaly changed
+e!
