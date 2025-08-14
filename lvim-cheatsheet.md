@@ -66,6 +66,7 @@ g -> c -> c
 
 # comment a selection
 v # enter selection mode
-gc # comment selection
+g -> c # comment selection
 
-
+# enter class/function definition
+g -> d
