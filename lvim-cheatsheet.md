@@ -70,3 +70,19 @@ g -> c # comment selection
 
 # enter class/function definition
 g -> d
+
+# format code
+space -> l -> f
+
+# navegate opened tabs
+space -> b -> n # next in order
+space -> b -> b # previous in order
+
+# toggle git line blame
+spcae -> b -> s # custom command
+
+# open a terminal window over the current openned file
+ctrl+4
+
+# highlight all occurrences of a substring
+shift+3
