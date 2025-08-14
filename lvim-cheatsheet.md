@@ -59,4 +59,13 @@ ctrl+c
 i
 
 # reload file externaly changed
-e!
+:e!
+
+# comment a single line
+g -> c -> c
+
+# comment a selection
+v # enter selection mode
+gc # comment selection
+
+
